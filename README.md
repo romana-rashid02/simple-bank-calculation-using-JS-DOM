@@ -3,4 +3,4 @@ email: romana@gmail.com
 password: akasher tara
 
 
-site link: https://romana-rashid02.github.io/simple-bank-calculation-using-JS-DOM/
+site link: https://lucky-bunny-cdbd8e.netlify.app/
